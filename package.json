@@ -1,6 +1,6 @@
 {
   "name": "myfirst_sue1016",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "how i learned npm",
   "main": "index.js",
   "scripts": {
@@ -18,5 +18,8 @@
   "homepage": "https://github.com/sue1016/learnNPM#readme",
   "dependencies": {
     "lodash": "^4.17.5"
-  }
+  },
+  "files":[
+    "app.js"
+  ]
 }
