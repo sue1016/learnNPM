@@ -21,4 +21,18 @@ npm是nodejs的一个模块。
 
 ## 安装包  
 
-eg: npm i jquery
+eg: npm i jquery   
+
+* [npm 安装出现 UNMET DEPENDENCY 的解决方案][1]  
+* [mac下nodejs 更新到最新版本的最新方法][2]  
+* [npm install模块时 报错：not such file or directory][3]  
+* [nodejs中的npm全局安装和局部安装的意思，npm中的全局安装和局部安装的区别][4]     
+* [npm won't install packages locally. What's wrong?][5]  
+
+[1]:https://lellansin.wordpress.com/2014/02/27/npm-%E5%AE%89%E8%A3%85%E5%87%BA%E7%8E%B0-unmet-dependency-%E7%9A%84%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88/  
+[2]:https://blog.csdn.net/chwshuang/article/details/54965100  
+[3]:https://segmentfault.com/q/1010000012930521 
+
+[4]:https://blog.csdn.net/jiang7701037/article/details/80706920
+
+[5]:https://blog.csdn.net/davidsu33/article/details/52633904
