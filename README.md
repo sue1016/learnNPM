@@ -21,7 +21,9 @@ npm是nodejs的一个模块。
 
 ## 安装包  
 
-eg: npm i jquery   
+eg: 
+npm i jquery 在当前目录下局部安装jquery
+npm -g i jquery 全局安装jquery  
 
 * [npm 安装出现 UNMET DEPENDENCY 的解决方案][1]  
 * [mac下nodejs 更新到最新版本的最新方法][2]  
@@ -36,3 +38,11 @@ eg: npm i jquery
 [4]:https://blog.csdn.net/jiang7701037/article/details/80706920
 
 [5]:https://blog.csdn.net/davidsu33/article/details/52633904
+
+------
+
+## 卸载包  
+
+在所在目录下  
+npm uninstall jquery 卸载当前目录下的jquery  
+
